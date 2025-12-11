@@ -1,4 +1,4 @@
-# Dying ReLU Problem – Mathematical and Experimental Analysis
+# Dying ReLU Problem – A Mathematical and Experimental Study of Permanent neuron inactivity.
 
 This repository contains the full implementation and experimental analysis for the MSc Data Science tutorial:
 
